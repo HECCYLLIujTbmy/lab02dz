@@ -1,8 +1,8 @@
-#include <iostream>
+#include <iostream>//iostream
 #include <string>
 using namespace std;
 int
-main()
+main()//function
 {
   string name;
   cout << "Say your name" << endl;
